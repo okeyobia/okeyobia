@@ -4,19 +4,19 @@ DevOps and Cloud Infrastructure Engineer with 10+ years of experience specializi
 Kubernetes, and Terraform across AWS and Azure.
 
 My main Tech stack 
-Cloud & Containers: ☁️ (AWS/EKS, Azure/AKS, GCP), ☸️ (Kubernetes), 🐳 (Docker), ⛵ (Helm)
+- Cloud & Containers: ☁️ (AWS/EKS, Azure/AKS, GCP), ☸️ (Kubernetes), 🐳 (Docker), ⛵ (Helm)
 
-Infrastructure as Code: 🏗️ (Terraform, OpenTofu), 🤖 (Ansible), 🛠️ (Pulumi)
+- Infrastructure as Code: 🏗️ (Terraform, OpenTofu), 🤖 (Ansible), 🛠️ (Pulumi)
 
-CI/CD & DevOps: 🚀 (Jenkins), 🐙 (ArgoCD), ♾️ (Azure DevOps), 🧪 (Harness)
+- CI/CD & DevOps: 🚀 (Jenkins), 🐙 (ArgoCD), ♾️ (Azure DevOps), 🧪 (Harness)
 
-Security (DevSecOps): 🛡️ (Snyk, Black Duck), 🔍 (Checkmarx), 🔐 (IAM, Key Vault)
+- Security (DevSecOps): 🛡️ (Snyk, Black Duck), 🔍 (Checkmarx), 🔐 (IAM, Key Vault)
 
-Monitoring & Observability: 📈 (Grafana, Dynatrace), 📉 (AppDynamics), 🕵️ (Prometheus), 🔭 (OpenTelemetry)  
+- Monitoring & Observability: 📈 (Grafana, Dynatrace), 📉 (AppDynamics), 🕵️ (Prometheus), 🔭 (OpenTelemetry)  
 
-Database Management: 🐘 (PostgreSQL), 🗄️ (SQL Server), 🐬 (MySQL)
+- Database Management: 🐘 (PostgreSQL), 🗄️ (SQL Server), 🐬 (MySQL)
 
-Languages: 🐍 (Python), 🐚 (Bash), ☕ (Java)
+- Languages: 🐍 (Python), 🐚 (Bash), ☕ (Java)
 
 - 🔭 I’m currently working on DevOps project
 - 🌱 I’m currently working on MLOps and AIOps
